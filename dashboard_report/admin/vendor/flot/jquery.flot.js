@@ -250,7 +250,7 @@ Licensed under the MIT license.
 				this.textContainer = $("<div class='flot-text'></div>")
 					.css({
 						position: "absolute",
-						
+						top: 0,
 						left: 0,
 						bottom: 0,
 						right: 0,
